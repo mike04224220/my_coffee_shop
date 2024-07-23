@@ -1,1 +1,3 @@
+# Dependences to keep on dev
+
 ipython==8.26.0
